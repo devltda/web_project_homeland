@@ -6,7 +6,6 @@
   padding-right: 154px;
 }
 
-/*Titulo*/
 .intro__title {
   width: 830px;
   height: 116px;
@@ -17,7 +16,6 @@
   margin-block: 0;
 }
 
-/*Frase*/
 .intro__text-phrase {
   width: 738px;
   height: 68px;
@@ -27,7 +25,6 @@
   padding-right: 92px;
 }
 
-/*JOSEPH Beus*/
 .intro__text-reference {
   width: 732px;
   font-size: 24px;
@@ -39,7 +36,6 @@
   padding-top: 20px;
 }
 
-/*Descricao da cidade*/
 .intro__text-introduction {
   width: 722px;
   height: 182px;
@@ -70,10 +66,7 @@
   .intro__text-phrase {
     width: auto;
     padding-right: 0;
-<<<<<<< HEAD
     margin-bottom: 0;
-=======
->>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
     line-height: 102px;
     font-size: 24px;
     line-height: 34px;
@@ -97,11 +90,7 @@
   }
 }
 
-<<<<<<< HEAD
 @media screen and (max-width: 752px) {
-=======
-@media screen and (max-width: 795px) {
->>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
   .intro {
     padding-inline: 16px;
     width: auto;
@@ -118,12 +107,8 @@
     height: auto;
     font-size: 24px;
     line-height: 35px;
-<<<<<<< HEAD
     padding-top: 40px;
     margin-top: 0;
-=======
-    padding-top: 10px;
->>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
   }
 
   .intro__text-reference {
