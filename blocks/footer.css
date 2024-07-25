@@ -1,0 +1,25 @@
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.footer__copyright {
+  max-width: 166px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  text-align: right;
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 752px) {
+=======
+@media screen and (max-width: 795px) {
+>>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
+  .footer__copyright {
+    line-height: 14px;
+    margin-bottom: 24px;
+  }
+}

@@ -1,0 +1,140 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  padding-right: 154px;
+}
+
+/*Titulo*/
+.intro__title {
+  width: 830px;
+  height: 116px;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  padding-bottom: 40px;
+  margin-block: 0;
+}
+
+/*Frase*/
+.intro__text-phrase {
+  width: 738px;
+  height: 68px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  padding-right: 92px;
+}
+
+/*JOSEPH Beus*/
+.intro__text-reference {
+  width: 732px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: right;
+  padding-right: 98px;
+  margin-block: 0;
+  padding-top: 20px;
+}
+
+/*Descricao da cidade*/
+.intro__text-introduction {
+  width: 722px;
+  height: 182px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26.08px;
+  text-align: left;
+  padding-right: 108px;
+  margin-top: 32px;
+  margin-bottom: 92px;
+}
+
+@media screen and (max-width: 1000px) {
+  .intro {
+    padding-inline: 24px;
+    overflow: hidden;
+  }
+
+  .intro__title {
+    width: auto;
+    padding: 0;
+    height: 98px;
+    font-size: 45px;
+    line-height: 49px;
+    margin-bottom: 0;
+  }
+
+  .intro__text-phrase {
+    width: auto;
+    padding-right: 0;
+<<<<<<< HEAD
+    margin-bottom: 0;
+=======
+>>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
+    line-height: 102px;
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .intro__text-reference {
+    width: auto;
+    text-align: end;
+    padding: 0;
+    height: 34px;
+    font-size: 24px;
+    margin-block: 0;
+    padding-top: 26px;
+  }
+
+  .intro__text-introduction {
+    width: auto;
+    padding: 0;
+    height: 182px;
+    margin-bottom: 88px;
+  }
+}
+
+<<<<<<< HEAD
+@media screen and (max-width: 752px) {
+=======
+@media screen and (max-width: 795px) {
+>>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
+  .intro {
+    padding-inline: 16px;
+    width: auto;
+  }
+
+  .intro__title {
+    height: auto;
+    font-size: 32px;
+    line-height: 35px;
+    padding-right: 0;
+  }
+
+  .intro__text-phrase {
+    height: auto;
+    font-size: 24px;
+    line-height: 35px;
+<<<<<<< HEAD
+    padding-top: 40px;
+    margin-top: 0;
+=======
+    padding-top: 10px;
+>>>>>>> adf8d01ac9b19692e50b14491a40e828e49c6bc5
+  }
+
+  .intro__text-reference {
+    height: auto;
+    line-height: 34px;
+  }
+
+  .intro__text-introduction {
+    height: auto;
+    margin-bottom: 64px;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+}
