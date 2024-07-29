@@ -23,10 +23,9 @@ Aqui está o que cada diretório do projeto faz:
 	•	vendor: Armazena bibliotecas e plugins de terceiros que ajudam a construir o site.
 
 # Configuração
-
-  •	.editorconfig: Configurações para padronização do editor de código.
-	•	.prettierignore: Arquivos ignorados pelo Prettier.
-	•	.gitignore: Arquivos e diretórios ignorados pelo Git.
-	•	/.vscode: Configurações específicas do VS Code.
+.editorconfig: Configurações para padronização do editor de código.
+•	.prettierignore: Arquivos ignorados pelo Prettier.
+•	.gitignore: Arquivos e diretórios ignorados pelo Git.
+•	/.vscode: Configurações específicas do VS Code.
 
 # Link para acessar projeto: https://peaga97.github.io/web_project_homeland/
